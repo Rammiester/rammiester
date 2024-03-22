@@ -1,4 +1,5 @@
-# Welcome to Ramit's Laughter-driven Code Emporium! 🎉
+# Welcome to Ramit's Code & Comedy Corner! 🎮🤣
+
 
 ![Coding Humor](https://media.giphy.com/media/3o7qDLwhxkDxVp9gxi/giphy.gif)
 
