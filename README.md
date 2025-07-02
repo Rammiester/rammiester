@@ -1,37 +1,96 @@
-# Welcome to Ramit's Code & Comedy Corner! 🎮🤣
-
+# 👋 Welcome to Ramit's Code & Comedy Corner! 🎮🤣
 
 ![Coding Humor](https://media.giphy.com/media/3o7qDLwhxkDxVp9gxi/giphy.gif)
 
-## Hey there, fellow humanoids! 👋
+## Hey there, fellow humanoids!
 
-I'm Ramit Kumar Gupta, a code wizard with a knack for injecting humor into my byte-sized creations. You can call me the laughter-driven developer, always coding with a smile and a sprinkle of wit! 
+I’m **Ramit Kumar Gupta** — a frontend developer with a love for React, clean UIs, and dangerously witty code comments. Whether it's scalable architecture or scalable jokes, I’m here to ship both with flair.  
 
-## About Me 🤓
+---
 
-I'm a recent graduate from Noida Institute of Engineering and Technology, armed with a Bachelor of Technology degree and a stash of programming prowess in HTML, CSS, JavaScript, and PHP. When I'm not typing away furiously at my keyboard, you'll find me exploring the fascinating world of football, documentaries, or immersing myself in the captivating realms of digital adventures.
+## 👨‍💻 About Me
 
-## Experience 🚀
+🎓 **B.Tech in Computer Science**  
+🧠 Passionate about building intuitive, performant, and accessible frontend apps  
+⚡ Fueled by clean code, dark mode, and the occasional meme-induced debug session  
+📍 Based in Bangalore, but I deploy globally 🌐
 
-As a freelance web developer, I've spun digital wonders like the legendary [Babainfratech](https://babainfratech.in) website, showcasing solar projects with such brilliance even the sun gets jealous! And who could forget [Scopely Pay](https://scopelypay.com), a site so sleek it makes online transactions feel like a walk in the digital park.
+---
 
-## Technical Wizardry 🔮
+## 🧪 Experience
 
-- **Languages:** C++, HTML, CSS, ReactJs, JavaScript, PHP, SQL
-- **Frameworks:** React, CodeIgniter 4
-- **Databases:** MySQL
+### 🔹 **Frontend Developer Intern** – Volopay (Feb 2025 – May 2025)
+- Reduced user friction by 25% in financial workflows via UI enhancements  
+- Built reusable React components for seamless payment ops  
+- Integrated real-time payment APIs with 99.9% uptime  
+- Squashed 15+ bugs (not the insect kind) to stabilize the product  
+- Used Redux to orchestrate state like a maestro 🎻
 
-## Projects 🛠️
+### 🔹 **Freelance Software Engineer** – Nexlerate (Mar 2024 – Jan 2025)
+- Developed **Stock Ninja**: a Shopify app with real-time stock countdown  
+- Built UI with React & Tailwind — 30% faster dev cycles 🏎️  
+- Worked in Agile sprints and hit 100% delivery goals  
 
-- **Health Plus 2023:** Digital health records so easy, even hypochondriacs approve!
-- **Mini Projects:** From employee portals to e-commerce doggy treats, I've dabbled in it all!
+### 🔹 **Freelance Web Developer** – Self-Employed (Mar 2023 – Feb 2024)
+- Created a React-based app for autistic child monitoring — boosted engagement by 30%  
+- Built ERP system for educational institute (Laravel + Bootstrap) — 25% admin time saved  
 
-## Hobbies and Other Adventures 🎭
+---
 
-When I'm not debugging life or cracking the code of the universe, you'll catch me on the football field, dissecting mind-bending documentaries, embarking on impromptu travels, or immersing myself in the thrilling adventures of digital realms through gaming!
+## 🛠️ Skills & Stack
 
-## Let's Connect and Laugh Together! 🤣
+- **Languages:** JavaScript, HTML/CSS, C/C++, SQL  
+- **Frameworks:** ReactJS, Redux, Node.js, Laravel, CodeIgniter, WordPress  
+- **UI Tools:** TailwindCSS, Material-UI, Bootstrap  
+- **Tools:** Git, Figma, Postman, Thunder Client, VS Code  
+- **Other:** REST APIs, Chrome Extensions, AJAX, JSON
 
-Feel free to reach out if you're ready to blend code and comedy, or if you just need a good laugh while debugging! You can find me on [LinkedIn](https://linkedin.com/in/rammiester22) or share a laugh with me on [GitHub](https://github.com/Rammiester).
+---
 
-P.S. Rumor has it that my code comments are funnier than most stand-up specials! 🎙️
+## 🚀 Featured Projects
+
+### 🌿 **Health Plus (2023)**  
+React + Node.js wellness tracker for health-conscious users (or guilt-ridden ones).  
+
+### 🧠 **Smart Summarizer – Chrome Extension**  
+- Summarizes web content using **Gemini API**  
+- Tabbed UI with **Summary**, **History**, and **Settings**  
+- Features dark mode, responsive design, and slick animations  
+- Local storage integration for seamless UX retention
+
+### 🛒 **Stock Ninja (Shopify App)**  
+[Live App](https://apps.shopify.com/stockninja-show-stock-timer?show_store_picker=1)  
+Real-time stock display and countdown timer — because scarcity sells.
+
+---
+
+## 🏅 Certifications
+
+- **Web Development Basics** – IBM Skills Network (Coursera)  
+- **Cloud Resource Management** – Google Cloud Skills Boost  
+
+---
+
+## 🎭 When I’m Not Coding...
+
+You'll find me:
+- ⚽ Playing football like it's the World Cup finals  
+- 🎮 Gaming and raiding dungeons instead of production servers  
+- 📺 Watching documentaries and pretending it's for "research"  
+- ✈️ Taking spontaneous trips and debugging IRL navigation
+
+---
+
+## 🤝 Let’s Connect!
+
+Whether it's collaboration, consultation, or just cracking tech jokes:
+
+- 💼 [LinkedIn](https://linkedin.com/in/rammiester22)  
+- 💻 [GitHub](https://github.com/Rammiester)  
+- 📬 [Email](mailto:ramitg0@gmail.com)
+
+---
+
+> *"My code is readable, my designs are sleek, and my comments? Legendary."*  
+> – Ramit (probably while sipping chai ☕)
+
