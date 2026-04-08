@@ -1,96 +1,119 @@
-# 👋 Welcome to Ramit's Code & Comedy Corner! 🎮🤣
+# 👋 Ramit Gupta | Frontend Engineer 🚀
 
-![Coding Humor](https://media.giphy.com/media/3o7qDLwhxkDxVp9gxi/giphy.gif)
-
-## Hey there, fellow humanoids!
-
-I’m **Ramit Kumar Gupta** — a frontend developer with a love for React, clean UIs, and dangerously witty code comments. Whether it's scalable architecture or scalable jokes, I’m here to ship both with flair.  
+![Coding](https://media.giphy.com/media/3o7qDLwhxkDxVp9gxi/giphy.gif)
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science**  
-🧠 Passionate about building intuitive, performant, and accessible frontend apps  
-⚡ Fueled by clean code, dark mode, and the occasional meme-induced debug session  
-📍 Based in Bangalore, but I deploy globally 🌐
+Frontend Engineer with **1.5 years of experience** building scalable, performant web applications using **React, Next.js, and TailwindCSS**.
+
+Recently worked on performance optimization that:
+- Reduced API calls by **90% (47 → 5 per session)**
+- Improved load times from **2.1s → 200ms**
+
+I enjoy building **interactive UI systems**, optimizing performance, and experimenting with **AI-powered features**.
+
+📍 Bangalore, India  
+🌐 Open to opportunities  
 
 ---
 
 ## 🧪 Experience
 
-### 🔹 **Frontend Developer Intern** – Volopay (Feb 2025 – May 2025)
-- Reduced user friction by 25% in financial workflows via UI enhancements  
-- Built reusable React components for seamless payment ops  
-- Integrated real-time payment APIs with 99.9% uptime  
-- Squashed 15+ bugs (not the insect kind) to stabilize the product  
-- Used Redux to orchestrate state like a maestro 🎻
-
-### 🔹 **Freelance Software Engineer** – Nexlerate (Mar 2024 – Jan 2025)
-- Developed **Stock Ninja**: a Shopify app with real-time stock countdown  
-- Built UI with React & Tailwind — 30% faster dev cycles 🏎️  
-- Worked in Agile sprints and hit 100% delivery goals  
-
-### 🔹 **Freelance Web Developer** – Self-Employed (Mar 2023 – Feb 2024)
-- Created a React-based app for autistic child monitoring — boosted engagement by 30%  
-- Built ERP system for educational institute (Laravel + Bootstrap) — 25% admin time saved  
+### 🔹 Software Engineer – Edstellar (Aug 2024 – Present)
+- Architected **ReferenceDataContext system** reducing API calls by 90%
+- Improved form load performance from **2.1s → 200ms**
+- Designed reusable hooks for scalable data access
+- Fixed 15+ UI issues improving UX and form completion
+- Built responsive UI using Next.js and TailwindCSS
 
 ---
 
-## 🛠️ Skills & Stack
+### 🔹 Frontend Developer Intern – Volopay (Feb 2024 – May 2024)
+- Reduced user friction by **25%** in financial workflows
+- Built reusable React components for payments system
+- Integrated APIs with **99.9% uptime**
+- Resolved 15+ production bugs
 
-- **Languages:** JavaScript, HTML/CSS, C/C++, SQL  
-- **Frameworks:** ReactJS, Redux, Node.js, Laravel, CodeIgniter, WordPress  
-- **UI Tools:** TailwindCSS, Material-UI, Bootstrap  
-- **Tools:** Git, Figma, Postman, Thunder Client, VS Code  
-- **Other:** REST APIs, Chrome Extensions, AJAX, JSON
+---
+
+### 🔹 Freelance Software Engineer (Mar 2023 – Jan 2024)
+- Built **Stock Ninja** Shopify app (real-time stock tracking)
+- Developed React app for autistic children (↑ engagement 30%)
+- Built ERP system reducing admin time by 25%
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, Next.js, TailwindCSS, Material UI  
+**State Management:** Redux Toolkit, Context API, Custom Hooks  
+**Backend & APIs:** Node.js, REST APIs  
+**Database:** Firebase, SQL  
+**Tools:** Git, Postman, Chrome DevTools  
+**Other:** Performance Optimization, Chrome Extensions, AI Integration  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌿 **Health Plus (2023)**  
-React + Node.js wellness tracker for health-conscious users (or guilt-ridden ones).  
+### 🖥 Interactive Developer Portfolio
+- Built a **Windows XP-style desktop environment** in the browser  
+- Features:
+  - Draggable & resizable windows
+  - Developer terminal interface
+  - Immersive project showcase
+  - AI-powered resume parsing & wallpaper generation
+- Tech: React, Next.js, TailwindCSS, Firebase, Framer Motion  
 
-### 🧠 **Smart Summarizer – Chrome Extension**  
-- Summarizes web content using **Gemini API**  
-- Tabbed UI with **Summary**, **History**, and **Settings**  
-- Features dark mode, responsive design, and slick animations  
-- Local storage integration for seamless UX retention
+---
 
-### 🛒 **Stock Ninja (Shopify App)**  
-[Live App](https://apps.shopify.com/stockninja-show-stock-timer?show_store_picker=1)  
-Real-time stock display and countdown timer — because scarcity sells.
+### 🧠 Smart Summarizer – Chrome Extension
+- Summarizes web content using **Gemini API**
+- Modular tab system (Summary, History, Settings)
+- Dark mode + responsive UI
+- Local storage for persistence  
+
+---
+
+### 🛒 Stock Ninja (Shopify App)
+🔗 https://apps.shopify.com/stockninja-show-stock-timer?show_store_picker=1  
+- Real-time stock display & countdown timer  
+- Built with React + Shopify APIs  
+
+---
+
+## 🤖 AI & Product Experiments
+
+- Built AI-powered features using **Google Gemini API**
+- Used AI tools (Stitch, NotebookLM) for design & development workflows
+- Currently building chatbot + A/B testing system using **n8n**
 
 ---
 
 ## 🏅 Certifications
 
-- **Web Development Basics** – IBM Skills Network (Coursera)  
-- **Cloud Resource Management** – Google Cloud Skills Boost  
+- Web Development Basics – IBM Skills Network  
+- Cloud Resource Management – Google Cloud  
 
 ---
 
-## 🎭 When I’m Not Coding...
+## 🤝 Let’s Connect
 
-You'll find me:
-- ⚽ Playing football like it's the World Cup finals  
-- 🎮 Gaming and raiding dungeons instead of production servers  
-- 📺 Watching documentaries and pretending it's for "research"  
-- ✈️ Taking spontaneous trips and debugging IRL navigation
+- 💼 LinkedIn: https://linkedin.com/in/rammiester22  
+- 💻 GitHub: https://github.com/Rammiester  
+- 📬 Email: ramitg89@gmail.com  
 
 ---
 
-## 🤝 Let’s Connect!
+## ⚡ Fun Fact
 
-Whether it's collaboration, consultation, or just cracking tech jokes:
-
-- 💼 [LinkedIn](https://linkedin.com/in/rammiester22)  
-- 💻 [GitHub](https://github.com/Rammiester)  
-- 📬 [Email](mailto:ramitg0@gmail.com)
+I like building systems that are:
+- Fast ⚡  
+- Clean 🧼  
+- Slightly over-engineered (only when necessary 😄)
 
 ---
 
-> *"My code is readable, my designs are sleek, and my comments? Legendary."*  
-> – Ramit (probably while sipping chai ☕)
-
+> “Good code solves problems. Great code prevents them.”
